@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lucasnkz11@gmail.com**
 
-- 📄 Know about my experiences [Advanced python with Alura courses and full stack abilities with Driven Education](Advanced python with Alura courses and full stack abilities with Driven Education)
+- 📄 Know about my experiences .[Advanced python with Alura courses and full stack abilities with Driven Education]
 
 - ⚡ Fun fact **I am the most motivated person in the world to discover new things**
 
