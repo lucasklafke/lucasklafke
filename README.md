@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone, I'm Lucas</h1>
+<h1 align="center">Hello World, I'm Lucas</h1>
 <h3 align="center">Addicted to programing & gamming</h3>
 
 - 🌱 I’m currently learning **Node.js**
