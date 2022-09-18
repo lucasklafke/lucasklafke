@@ -1,15 +1,15 @@
 <h1 align="center">Hello World, I'm Lucas</h1>
 <h3 align="center">if(awake) { return coding | gaming }</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 Atualmente estudando NodeJs, especificamente para Backend
 
-- 💬 Ask me about **React, Node, Html & Css, Aws...**
+- 💬 Pergunte-me sobre **Node, Html & Css,Bancos relacionais e não relacionais, Api's Rest, Aws...**
 
-- 📫 How to reach me **lucasnkz11@gmail.com**
+- 📫 Contato **lucasnkz11@gmail.com | https://www.linkedin.com/in/lucasklafke**
 
-- 📄 Know about my experiences .[Advanced python with Alura courses and full stack abilities with Driven Education]
+- 📄 Conheça mais sobre minhas habilidades como Dev Backend .[certificados em python na Alura, Api's Rest com nodeJs e typescript, aprendizado obtido na formação Driven education]
 
-- ⚡ Fun fact **I am the most motivated person in the world to discover new things**
+- ⚡ Fato divertido **Sou uma pessoa muito motivada para aprender novas coisas, como programador ja aprendi 3 linguagens, python | java | javascript, com foco em Javascript/Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
