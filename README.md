@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Lucas</h1>
 <h3 align="center">if(awake) { return coding | gaming }</h3>
 
-- 🌱 Atualmente estudando NodeJs, especificamente para Backend
+- 🌱 Atualmente estudando Java e aperfeiçoando minhas skills nodeJs com um projeto autoral
 
 - 💬 Pergunte-me sobre **Node, Html & Css, Bancos relacionais e não relacionais, Api's Rest, Aws...**
 
