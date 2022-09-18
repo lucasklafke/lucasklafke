@@ -3,9 +3,9 @@
 
 - 🌱 Atualmente estudando NodeJs, especificamente para Backend
 
-- 💬 Pergunte-me sobre **Node, Html & Css,Bancos relacionais e não relacionais, Api's Rest, Aws...**
+- 💬 Pergunte-me sobre **Node, Html & Css, Bancos relacionais e não relacionais, Api's Rest, Aws...**
 
-- 📫 Contato **lucasnkz11@gmail.com | https://www.linkedin.com/in/lucasklafke**
+- 📫 Contato **lucasnkz11@gmail.com | linkedin.com/in/lucasklafke**
 
 - 📄 Conheça mais sobre minhas habilidades como Dev Backend .[certificados em python na Alura, Api's Rest com nodeJs e typescript, aprendizado obtido na formação Driven education]
 
