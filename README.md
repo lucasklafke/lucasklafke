@@ -1,16 +1,16 @@
 <h1 align="center">Hello World, I'm Lucas</h1>
 <h3 align="center">if(awake) { return coding | gaming }</h3>
 
-- 🌱 Atualmente estudando Java e aperfeiçoando minhas skills nodeJs com um projeto autoral   
+- 🌱 Atualmente estudando Java e aperfeiçoando minhas skills nodeJs com um projeto autoral!  
 -link do repositório: www.github.com/Klafke-Projects/klafquizz-api
 
 - 💬 Pergunte-me sobre **Node, Html & Css, Bancos relacionais e não relacionais, Api's Rest, Aws...**
 
 - 📫 Contato **lucasnkz11@gmail.com | 	[Linkedln](www.linkedin.com/in/lucasklafke/)**
 
-- 📄 Conheça mais sobre minhas habilidades como Dev Backend .[ certificados em python na Alura, Api's Rest com nodeJs e typescript, aprendizado obtido na formação Driven education ]
+- 📄 Conheça mais sobre minhas habilidades como Dev Backend -> certificados em python na Alura, Api's Rest com nodeJs e typescript, aprendizado obtido na formação Driven education!
 
-- ⚡ Fato divertido **Sou uma pessoa muito motivada para aprender novas coisas, como programador ja aprendi 3 linguagens, python | java | javascript, com foco em Javascript/Typescript**
+- ⚡ Fato divertido **Sou uma pessoa muito motivada para aprender novas coisas, comecei programando com 14 anos em python, recebi certificados de aprendizado! Entrei para um bootcamp de programação fullstack e me especializei em Javascript/Typescript com NodeJs. Atualemten começando os estudos com Java e Orientação a objetos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
