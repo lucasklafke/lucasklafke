@@ -8,9 +8,9 @@
 
 - 📫 Contato **lucasnkz11@gmail.com | 	[Linkedln](www.linkedin.com/in/lucasklafke/)**
 
-- 📄 Conheça mais sobre minhas habilidades como Dev Backend -> certificados em python na Alura, Api's Rest com nodeJs e typescript, aprendizado obtido na formação Driven education!
+- 📄 Conheça mais sobre minhas habilidades como Dev Backend -> Api's Rest com nodeJs e typescript, com testes e bancos relacionais e não relacionais! Aprendizado obtido na formação Driven education! Certificados em Python na Alura, mais de 20 projetos especializados em conhecimento fullstack.
 
-- ⚡ Fato divertido **Sou uma pessoa muito motivada para aprender novas coisas, comecei programando com 14 anos em python, recebi certificados de aprendizado! Entrei para um bootcamp de programação fullstack e me especializei em Javascript/Typescript com NodeJs. Atualemten começando os estudos com Java e Orientação a objetos.**
+- ⚡ Fato divertido **Sou uma pessoa muito motivada para aprender novas coisas, comecei programando com 14 anos em python, recebi certificados de aprendizado! Entrei para um bootcamp de programação fullstack e me especializei em Javascript/Typescript com NodeJs. Atualmente começando os estudos com Java e Orientação a objetos.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
