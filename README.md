@@ -17,7 +17,6 @@
 <a href="https://linkedin.com/in/linkedin.com/in/lucas-klafke-b9728120b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lucas-klafke-b9728120b/" height="30" width="40" /></a>
 </p>
 <div>
-<h3 align="left">Linguagens e ferramentas:</h3>
 <h3 align="left">Linguagens:</h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="80" height="80"></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="80" height="80"></img>
