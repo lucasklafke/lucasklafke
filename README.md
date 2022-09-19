@@ -8,7 +8,7 @@
 
 - 📫 Contato **lucasnkz11@gmail.com | 	[Linkedln](www.linkedin.com/in/lucasklafke/)**
 
-- 📄 Conheça mais sobre minhas habilidades como Dev Backend .[certificados em python na Alura, Api's Rest com nodeJs e typescript, aprendizado obtido na formação Driven education]
+- 📄 Conheça mais sobre minhas habilidades como Dev Backend .[ certificados em python na Alura, Api's Rest com nodeJs e typescript, aprendizado obtido na formação Driven education ]
 
 - ⚡ Fato divertido **Sou uma pessoa muito motivada para aprender novas coisas, como programador ja aprendi 3 linguagens, python | java | javascript, com foco em Javascript/Typescript**
 
