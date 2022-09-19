@@ -1,7 +1,8 @@
 <h1 align="center">Hello World, I'm Lucas</h1>
 <h3 align="center">if(awake) { return coding | gaming }</h3>
 
-- 🌱 Atualmente estudando Java e aperfeiçoando minhas skills nodeJs com um projeto autoral -> link do repositório: github.com/Klafke-Projects/klafquizz-api
+- 🌱 Atualmente estudando Java e aperfeiçoando minhas skills nodeJs com um projeto autoral   
+-link do repositório: www.github.com/Klafke-Projects/klafquizz-api
 
 - 💬 Pergunte-me sobre **Node, Html & Css, Bancos relacionais e não relacionais, Api's Rest, Aws...**
 
