@@ -6,7 +6,7 @@
 
 - 💬 Pergunte-me sobre **Node, Html & Css, Bancos relacionais e não relacionais, Api's Rest, Aws, Docker, Express, Javascript/Typescript...**
 
-- 📫 Contato **lucasnkz11@gmail.com | 	[Linkedln](www.linkedin.com/in/lucasklafke/)**
+- 📫 Contato **lucasnklafke@gmail.com | 	[Linkedln](www.linkedin.com/in/lucasklafke/)**
 
 - 📄 Conheça mais sobre minhas habilidades como Dev Backend -> Api's Rest com nodeJs e typescript, com testes e bancos relacionais e não relacionais! Aprendizado obtido na formação Driven education! Certificados em Python na Alura, mais de 20 projetos especializados em conhecimento fullstack.
 
