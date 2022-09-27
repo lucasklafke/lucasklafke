@@ -4,7 +4,7 @@
 - 🌱 Atualmente estudando Java e aperfeiçoando minhas skills nodeJs com um projeto autoral!  
 -link do repositório: www.github.com/Klafke-Projects/klafquizz-api
 
-- 💬 Pergunte-me sobre **Node, Html & Css, Bancos relacionais e não relacionais, Api's Rest, Aws...**
+- 💬 Pergunte-me sobre **Node, Html & Css, Bancos relacionais e não relacionais, Api's Rest, Aws, Docker, Express, Javascript/Typescript...**
 
 - 📫 Contato **lucasnkz11@gmail.com | 	[Linkedln](www.linkedin.com/in/lucasklafke/)**
 
