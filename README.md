@@ -3,6 +3,7 @@
 
 - 🌱 Atualmente estudando Java e aperfeiçoando minhas skills nodeJs com um projeto autoral!  
 -link do repositório: www.github.com/Klafke-Projects/klafquizz-api
+-desenvolvimento de um jogo em java: https://github.com/lucasklafke/java-game
 
 - 💬 Pergunte-me sobre **Node, Html & Css, Bancos relacionais e não relacionais, Api's Rest, Aws, Docker, Express, Javascript/Typescript...**
 
